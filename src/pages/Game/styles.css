@@ -1,0 +1,7 @@
+.sport-page {
+    display: flex;
+    justify-content: flex-end;
+}
+.sport-id {
+    padding: 15px;
+}

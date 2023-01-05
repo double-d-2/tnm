@@ -1,0 +1,8 @@
+.dropdown-button {
+    cursor: pointer;
+    display: block;
+    padding: 5px;
+}
+.dropdown-content {
+    padding:0 15px;
+}
